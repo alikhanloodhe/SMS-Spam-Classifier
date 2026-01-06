@@ -68,6 +68,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 📦 Project Structure
+```
 SMS-Spam-Classifier/
 │
 ├── data/                   # Dataset (if included)
@@ -76,7 +77,7 @@ SMS-Spam-Classifier/
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
 └── notebooks/              # Jupyter notebooks for exploration & training
-
+```
 ## 📈 Results
 
 High classification accuracy achieved using Multinomial Naive Bayes with TF-IDF features.
