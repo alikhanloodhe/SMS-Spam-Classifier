@@ -58,7 +58,7 @@ Model performance metrics
 
 ###🚀 How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/SMS-Spam-Classifier.git
+git clone https://github.com/alikhanloodhe/SMS-Spam-Classifier.git
 cd SMS-Spam-Classifier
 
 ### 2️⃣ Install Dependencies
